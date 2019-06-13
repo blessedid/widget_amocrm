@@ -1,0 +1,123 @@
+.card-widgets__widget.card-widgets__widget-comf5_foxford{
+	background-color: #fff;
+}
+div.js-widget-caption-block[data-code=comf5_foxford]{
+	border-bottom: 1px solid #e4e4e4;
+}
+.form__field{
+	padding-top: 5px;
+}
+#foxford_search{
+    width: 48%;
+}
+#foxford_basket{
+    width: 48%;
+    float: right;
+}
+.foxford-container{
+  margin-top: 12px;
+  width: 100%;
+  background: #fff;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+.foxford-products{
+  width: 100%;
+}
+.foxford-product-wrap{
+	margin-bottom: 10px;
+    width: calc(100% - 30px);
+    background: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    padding: 15px;
+    border: 1px solid #c3c3c3;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 2px 4px 0px rgba(181, 181, 181, 0.75);
+    box-shadow: 0 2px 4px 0px rgba(181, 181, 181, 0.75);
+}
+.foxford-product-icon{
+  margin-right: 10px;
+}
+.foxford-product-icon > img{
+  width: 36px;
+  height: 36px;
+}
+.foxford-product-content{
+  width: 100%;
+}
+.foxford-product-content__head{
+  font-weight: bold;
+}
+.foxford-product-content__body{
+  font-size: 14px;
+}
+/* * * * * * * */
+table.foxford-table {
+  text-align: left;
+  line-height: 20px;
+  border-collapse: separate;
+  border-spacing: 0;
+  width: 100%;
+  margin: 5px auto;
+  border-radius: .25rem;
+  color: #979797;
+}
+
+th.foxford-table:first-child,
+td.foxford-table:first-child {
+  padding: 0 15px 0 5px;
+}
+
+th.foxford-table {
+  font-weight: 500;
+}
+
+tbody.foxford-table tr.foxford-table:hover {
+  background-color: #f2f2f2;
+  cursor: default;
+}
+
+tbody.foxford-table tr.foxford-table:last-child td {
+  border: none;
+}
+
+tbody.foxford-table td.foxford-table {
+  border-bottom: 1px solid #ddd;
+}
+
+td.foxford-table:last-child {
+  text-align: right;
+  padding-right: 10px;
+}
+.foxford-table__basket-text{
+  font-size: 13px;
+  color: #4caf50;
+}
+.basket-text-add{
+	font-size: 13px;
+	color: #2196f3;
+}
+.foxford-table__basket-del{
+	font-size: 13px;
+	color: #f44336;
+}
+.foxford-go-basket{
+	max-height: 38px;
+    padding: 10px;
+    border: 1px solid #dbdedf;
+    border-radius: 3px;
+    vertical-align: middle;
+    color: #2e3640;
+    font-size: 14px;
+    line-height: 14px;
+    cursor: pointer;
+    outline: none;
+    z-index: 1;
+    white-space: nowrap;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 auto;
+}

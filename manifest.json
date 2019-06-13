@@ -1,0 +1,25 @@
+{
+    "widget":{
+            "name": "widget.name",
+            "description": "widget.description",
+            "short_description": "widget.short_description",
+            "code": "comf5_foxford",
+            "secret_key": "756bc66edf54c8a57716083c0513b04833a277f800931d7a67c554f2c3411592",
+            "version": "1.0.2",
+            "interface_version": 2,
+            "init_once": false,
+            "locale":["ru"],
+            "installation": true
+            },
+    "locations":[
+            "lcard-1",
+            "settings"
+            ],
+    "settings":{
+                "api_key":{
+                        "name": "settings.api_key",
+                        "type": "text",
+                        "required": true
+                        }
+            }
+}
